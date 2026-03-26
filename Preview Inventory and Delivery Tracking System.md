@@ -22,4 +22,4 @@ Sheet ini digunakan untuk melakukan analisis data secara otomatis dari database 
 Sheet Dashboard merupakan tampilan visual utama dari sistem monitoring logistik. Dashboard ini dirancang untuk menampilkan Key Performance Indicators (KPI) yang penting bagi operasional logistik.<br>
 ![Uploading Dashbord.png…](https://github.com/irsydnaufl/ProjectLogistic/blob/main/Sheet/Dashbord.png)<br>
 
-Atau dapat di akses melalui <a href="https://github.com/irsydnaufl/ProjectLogistic/blob/main/Inventory%20and%20Delivery%20Tracking%20System.xlsx">Link Excel Logistic</a> berikut, kemudian klik "View raw" untuk mengunduh.
+Atau dapat di akses melalui <a href="https://github.com/irsydnaufl/ProjectLogistic/blob/main/Excel/Inventory%20and%20Delivery%20Tracking%20System.xlsx">Link Excel Logistic</a> berikut, kemudian klik "View raw" untuk mengunduh.
